@@ -6,7 +6,7 @@
   "keywords": ["nodejs", "Bot", "WhatsApp Bot", "WhatsApp Automation", "Multi Device"],
    "env": {
           	"SUDO_NUMBER": {
-			"description": "Add the owner number here",
+			"description": "94760069363",
 			"required": true,
 			"value": "94711421243"
 		    },
