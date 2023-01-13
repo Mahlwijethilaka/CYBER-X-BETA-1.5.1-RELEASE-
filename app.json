@@ -11,27 +11,27 @@
 			"value": "94711421243"
 		    },
 		    "BOT_NAME": {
-			"description": "Change the bot Name here",
+			"description": "©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ 𝕸𝕯 𝕭𝕺𝕿♠️",
 			"required": true,
 			"value": "CYBER-X BETA 1.5"
 			},
 			"BOT_NUMBER": {
-			"description": "Change the Bot Number",
+			"description": "19172596046",
 			"required": true,
 			"value": "94778962038"
 			},
 			"STICKERS_NAME": {
-			"description": "Add the Stickers Name",
+			"description": "©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️",
 			"required": true,
 			"value": "ᴋɪɴɢ.ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
 			},
 			"OWNER_NAME": {
-			"description": "Add Your Name",
+			"description": "©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️",
 			"required": true,
 			"value": "ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
 			},
 			"FOOTER": {
-			"description": "Add Your Button Massage's Footer",
+			"description": "©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️",
 			"required": true,
 			"value": "ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ʀᴇʟᴇᴀꜱᴇ"
 			},
@@ -41,12 +41,12 @@
 			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
 			},
 			"ALIVE_MSG": {
-			"description": "Add Your Alive massage",
+			"description": "Hellow I'm Alive powerd By ©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️",
 			"required": true,
 			"value": "Hellow I'm Alive"
 			},
 			"MENU_IMAGE": {
-			"description": "Add Your Name",
+			"description": "©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️",
 			"required": true,
 			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
 			},
@@ -61,17 +61,17 @@
 			"value": "https://telegra.ph/file/4a576ba9ee45994d62aaa.jpg"
 			},
 			"CAPTION": {
-			"description": "Add Your Downloaded Video's Caption",
+			"description": "©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️",
 			"required": true,
 			"value": "ʙʏ ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ"
 			},
 			"YOUR_WEB": {
-			"description": "Add Your web or a nother Link",
+			"description": "https://github.com",
 			"required": true,
 			"value": "https://github.com/darkalphaxteam"
 			},
 			"PREMIUM_NUMBER" : {
-			"description": "Add your Number For unlock all Bot Features",
+			"description": "94760069363",
 			"required": true,
 			"value": "94711421243"
 			},
@@ -86,7 +86,7 @@
 			"value": "true"
 			},
 			"DEPLOYER_NAME": {
-			"description": "Add Your Name",
+			"description": "©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️",
 			"required": true,
 			"value": "DARK ALPHA"
 			},
@@ -96,7 +96,7 @@
 			"value": "Sri Lanka, Kurunagala, Nikaweratiya"
 			},
 			"CALL_BLOCK": {
-			"description": "Call Block system",
+			"description": "True",
 			"required": true,
 			"value": "false"
 			},
@@ -111,7 +111,7 @@
 			"value": "⛽"
 			},
 			"INBOX_MSG": {
-			"description": "Add Your Inbox Back Massage",
+			"description": "Hey i'm ©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️",
 			"required": true,
 			"value": "*ᴄʏʙᴇʀ-x ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ*"
 			}
